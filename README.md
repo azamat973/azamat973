@@ -2,7 +2,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,cs,postgres,git" />
 ### 🚀 Junior Frontend Developer | Студент КБТУ
 
-Я студент 2-го курса КБТУ
 ## 🛠 Технологический стек
 
 **Frontend:**
